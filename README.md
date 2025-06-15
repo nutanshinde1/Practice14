@@ -1,1 +1,1 @@
-Check weather by entering th city name.
+Website for Chechking weather updates.
