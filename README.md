@@ -1,1 +1,1 @@
-Website for Chechking weather updates.
+Website for Chechking WEATHER updates.
