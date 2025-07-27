@@ -12,6 +12,7 @@ document.getElementById('searchBtn').addEventListener('click', () => {
           const weather = data.weather[0].description;
           const windSpeed = data.wind.speed;
           const humidity = data.main.humidity;
+            
   
           document.getElementById('weatherInfo').innerHTML = `
             <p><strong>Temperature:</strong> ${temp}°C</p>
