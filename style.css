@@ -11,7 +11,7 @@ body {
   }
    
   .weather-app {
-    text-align: center;
+    text-align: center; 
     padding: 20px;
     background: #fff;
     border-radius: 10px;
