@@ -1,1 +1,1 @@
-Website for Chechking WEATHER updates of any city.
+Website for Chechking WEATHER updates of any city. 
